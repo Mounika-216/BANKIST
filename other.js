@@ -269,4 +269,4 @@ console.log(y);
  const bal=allmov.reduce((cur,arr)=>cur+arr);
  console.log(bal);
 // just learing to use git 
-console.log("hello");
+console.log("hello world");
